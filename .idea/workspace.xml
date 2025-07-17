@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10a8f3cd-93cc-40ac-84dc-f6b4803882df" name="Changes" comment="base page &amp; category cards">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/testingPractice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/elements.list.numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/enums/list.page.accordion.numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playwright.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-objects/elements/elements.check.box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-objects/elements/elements.list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-objects/elements/elements.text.box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-objects/list.page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/base.page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page-objects/base.page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/main.page.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/main.page.test.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "tmapf"
+  }
+}]]></component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="f1cba63e-d691-489a-a977-04bf680e5a8f" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tmapf/testingpractice",
+    "accountId": "f1cba63e-d691-489a-a977-04bf680e5a8f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2zrO2BYSZZxKymcBOjYTM9YHCpe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Node.js.MainPage.executor": "Run",
+    "Playwright.Click on all cards.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "C:\\Users\\ArseniMahulenka\\AppData\\Local\\JetBrains\\WebStorm 2025.1.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ArseniMahulenka\WebstormProjects\testingPractice\enums" />
+      <recent name="C:\Users\ArseniMahulenka\WebstormProjects\testingPractice\src\page-objects" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.MainPage">
+    <configuration name="Click on all cards" type="JavaScriptTestRunnerPlaywright" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <playwright-package value="$PROJECT_DIR$/node_modules/@playwright/test" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/test/main.page.js" />
+      <test-names>
+        <test-name value="Click on all cards" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainPage" type="NodeJSConfigurationType" application-parameters="test --project=&quot;chromium&quot;  --workers=1" path-to-js-file="node_modules/@playwright/test/cli.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="HEADLESS" value="false" />
+      </envs>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.MainPage" />
+      <item itemvalue="Playwright.Click on all cards" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Playwright.Click on all cards" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.26927.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10a8f3cd-93cc-40ac-84dc-f6b4803882df" name="Changes" comment="" />
+      <created>1752485515866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752485515866</updated>
+      <workItem from="1752485516926" duration="27516000" />
+    </task>
+    <task id="LOCAL-00001" summary="base page &amp; category cards">
+      <option name="closed" value="true" />
+      <created>1752668540267</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752668540267</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="base page &amp; category cards" />
+    <option name="LAST_COMMIT_MESSAGE" value="base page &amp; category cards" />
+  </component>
+</project>
