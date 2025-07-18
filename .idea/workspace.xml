@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10a8f3cd-93cc-40ac-84dc-f6b4803882df" name="Changes" comment="base page &amp; category cards">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/testingPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enums/elements.list.numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/enums/list.page.accordion.numbers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/playwright.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-objects/elements/elements.check.box.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-objects/elements/elements.list.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-objects/elements/elements.text.box.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/page-objects/list.page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/base.page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page-objects/base.page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/main.page.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/main.page.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +37,9 @@
     "accountId": "f1cba63e-d691-489a-a977-04bf680e5a8f"
   }
 }]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -130,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752485515866</updated>
-      <workItem from="1752485516926" duration="27516000" />
+      <workItem from="1752485516926" duration="28084000" />
     </task>
     <task id="LOCAL-00001" summary="base page &amp; category cards">
       <option name="closed" value="true" />
@@ -140,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752668540267</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="base page &amp; category cards">
+      <option name="closed" value="true" />
+      <created>1752763127147</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752763127147</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
