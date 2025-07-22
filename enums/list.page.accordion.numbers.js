@@ -1,10 +1,27 @@
 const AccordionNumbers = {
-    Elements: 0,
-    Forms: 1,
-    AlertsFrameWindows: 2,
-    Widgets: 3,
-    Interactions: 4,
-    BookStoreApplication: 5,
+    Elements: {
+        num: 0,
+        name: "Elements"},
+    Forms: {
+        num: 1,
+        name: "Forms",
+    },
+    AlertsFrameWindows: {
+        num: 2,
+        name: "Alerts, Frame & Windows",
+    },
+    Widgets: {
+        num: 3,
+        name: "Widgets",
+    },
+    Interactions: {
+        num: 4,
+        name: "Interactions",
+    },
+    BookStoreApplication: {
+        num: 5,
+        name: 'Book Store Application',
+    },
     Max: 6,
     Min: 0,
 }

@@ -16,14 +16,14 @@ export default class checkBox {
         await this.collapse.click();
     }
 
-    async checkByIndex(array) {
+    async selectCheckBoxByIndex(array) {
         let loc = 'xpath=./';
         for(let i = 0; i < array.length-1; i++) {
             loc = loc + `li[${array[i]}]/ol/`;
         }
         loc = loc + `li[${array[array.length-1]}]/span/label`;
         await expect(this.mainLayer.locator(loc)).toBeVisible();
-        await this.mainLayer.locator(loc).click();
+        return this.mainLayer.locator(loc);
     }
 
 }
