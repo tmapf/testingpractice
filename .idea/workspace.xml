@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10a8f3cd-93cc-40ac-84dc-f6b4803882df" name="Changes" comment="base page &amp; category cards">
+    <list default="true" id="10a8f3cd-93cc-40ac-84dc-f6b4803882df" name="Changes" comment="elements page check box &amp; text vox">
+      <change afterPath="$PROJECT_DIR$/enums/alertsFW.list.numbers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-objects/alertsFrameWindows/browser.windows.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-objects/alertsFrameWindows/browser.windows.popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/page-objects/helper.elements.list.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enums/list.page.accordion.numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/enums/list.page.accordion.numbers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page-objects/elements/elements.list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/main.page.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/main.page.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,8 +79,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ArseniMahulenka\WebstormProjects\testingPractice\enums" />
       <recent name="C:\Users\ArseniMahulenka\WebstormProjects\testingPractice\src\page-objects" />
+      <recent name="C:\Users\ArseniMahulenka\WebstormProjects\testingPractice\enums" />
     </key>
   </component>
   <component name="RunManager" selected="Node.js.MainPage">
@@ -119,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1752485515866</updated>
-      <workItem from="1752485516926" duration="28084000" />
+      <workItem from="1752485516926" duration="34103000" />
     </task>
     <task id="LOCAL-00001" summary="base page &amp; category cards">
       <option name="closed" value="true" />
@@ -137,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752763127147</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="elements page check box &amp; text vox">
+      <option name="closed" value="true" />
+      <created>1752830237438</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752830237438</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="base page &amp; category cards" />
-    <option name="LAST_COMMIT_MESSAGE" value="base page &amp; category cards" />
+    <MESSAGE value="elements page check box &amp; text vox" />
+    <option name="LAST_COMMIT_MESSAGE" value="elements page check box &amp; text vox" />
   </component>
 </project>
